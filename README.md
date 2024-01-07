@@ -32,7 +32,7 @@ Ensure you have the following dependencies installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tetris-game.git
+   git clone https://github.com/Mohamedbg23/Tetris-in-C-with-Ncurses-and-SDL.git
 
 2. Compile the Files:
 
