@@ -19,7 +19,6 @@ This project is an implementation of the classic Tetris game in the C programmin
 - Two different interfaces: SDL and Ncurses
 - User-friendly controls
 - Score tracking and level progression
-- [Add any additional features here]
 
 ## Prerequisites
 
