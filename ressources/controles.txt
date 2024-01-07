@@ -1,0 +1,10 @@
+FLECHE GAUCHE : deplace la piece vers la gauche
+FLECHE DROITE : deplace la piece vers la droite
+FLECHE BAS : deplace la piece vers le bas
+FLECHE HAUT : pivote la piece dans le sens trigonométrique
+C : met la piece en reserve et utilise la piece déja en réserve si il y en a une
+Z : pivote la piece dans le sens anti-trigonométrique
+ESPACE : deplace la piece instantanément tout en bas
+P : active/desactive la pause
+ECHAP : met fin à la partie et quitte le jeu
+
