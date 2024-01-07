@@ -10,6 +10,7 @@ This project is an implementation of the classic Tetris game in the C programmin
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Instructions](#instructions)
 - [Contributing](#contributing)
 
 ## Features
@@ -48,6 +49,14 @@ make`
 - Run the NCurses version:
 
 ./tetris text
+
+## Instructions
+- ← and →: Move the piece ,
+- ↑: Rotate (clockwise?) the piece,
+- SPACE: Immediately drop the piece,
+- ESC: Exit the game prematurely,
+- P: Pause the game (any P to resume),
+- C: to put the current piece in a reseve for a later use.
 
 ## Contributing
 - Mohamed Boughariou
