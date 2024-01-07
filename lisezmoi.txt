@@ -1,0 +1,13 @@
+TETRIS SDL et TXT V1 par Tangi LE HENAFF et Mohamed BOUGHARIOU
+nécessite les bibliotheques SDL, SDL_ttf, SDL_image et ncurses.
+doxygen pour la documentation.
+
+Pour compiler :
+utiliser Make à la racine du répertoire du jeu
+
+Générer la documentation :
+make doc
+
+Pour jouer :
+./tetris sdl
+./tetris txt
