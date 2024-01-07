@@ -48,7 +48,7 @@ make`
 
 - Run the NCurses version:
 
-./tetris text
+./tetris txt
 
 ## Instructions
 - ← and →: Move the piece ,
