@@ -58,6 +58,8 @@ make`
 - P: Pause the game (any P to resume),
 - C: to put the current piece in a reseve for a later use.
 
+  ![GitHub Gif](https://raw.githubusercontent.com/Mohamedbg23/Tetris-in-C-with-Ncurses-and-SDL/main/tetris.gif)
+
 ## Contributing
 - Mohamed Boughariou
 - Tangi Le Henaff
